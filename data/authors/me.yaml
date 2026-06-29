@@ -8,11 +8,9 @@ name:
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: She/Her
-postnominals:
-  - PhD
-  - MIEEE
+postnominals: ''
 status:
-  icon: "☕️"
+  icon: " "
 role: Psychology Student | Neuroscience Enthusiast
 bio: |
   Najmeh Nayyer is a Research Assistant and Intern. Her research
@@ -34,10 +32,10 @@ links:
     url: https://github.com/NajmehNayyer
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  # - icon: academicons/google-scholar
+    # url: https://scholar.google.com/citations?user=example
+  # - icon: academicons/orcid
+    # url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Object Recognition
@@ -49,24 +47,17 @@ education:
   - degree: BSc Psychology
     institution: University of Isfahan
     start: 2024-09-22
-    end: 2028-07-21
 
 experience:
   - role: Research Intern
     org: IPM Institute For Research In Fundamental Sciences
     start: 2026-05
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
+    supervisor: |
+      Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian
+    # button:
+      # text: View portfolio
+      # url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 skills:
   - name: Technical Skills
@@ -93,10 +84,12 @@ languages:
   - name: English
     level: 3.5
     label: Advanced
-
+  - name: French
+    level: 0.4
+    
 awards:
   - title: Top 0.03% Student in Humanities Major in Iran
-    awarder: NeurIPS
+    awarder: Ministry of Science, Research and Technology
     date: "2024-09"
     summary:  Ranked 1135 (top 0.03%) among 348,917 participants in the national entrance exam for bachelors, which resulted in a full-ride scholarship.
     icon: hero/trophy
