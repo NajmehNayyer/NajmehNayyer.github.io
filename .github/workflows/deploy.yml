@@ -23,7 +23,7 @@ defaults:
 
 env:
   NODE_VERSION: '22'
-  HUGO_VERSION: '0.162.0'
+  HUGO_VERSION: 'latest'
 
 jobs:
   build:
