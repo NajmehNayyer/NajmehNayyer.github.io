@@ -40,37 +40,24 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Object Recognition
+  - Perceptual Decision Making
+  - Working Memory
+  - Intelligence
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: BSc Psychology
+    institution: University of Isfahan
+    start: 2024-09-22
+    end: 2028-07-21
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Intern
+    org: IPM Institute For Research In Fundamental Sciences
+    start: 2026-05
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+    Supervisor: Supervisor: Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian, IPM
     button:
       text: View portfolio
       url: /
@@ -86,31 +73,31 @@ skills:
   - name: Technical Skills
     items:
       - label: Python
+        level: 3
+      - label: MATLAB
+        level: 2
+      - label: SPSS
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+  - name: Research
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Statistical Data Analysis
         level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Signal Processing
+        level: 2
+      - label: Task Design
+        level: 3
 
 languages:
-  - name: English
+  - name: Persian
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - name: English
+    level: 3.5
+    label: Advanced
 
 awards:
-  - title: Best Paper Award
+  - title: Top 0.03% Student in Humanities Major in Iran
     awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+    date: "2024-09"
+    summary:  Ranked 1135 (top 0.03%) among 348,917 participants in the national entrance exam for bachelors, which resulted in a full-ride scholarship.
     icon: hero/trophy
