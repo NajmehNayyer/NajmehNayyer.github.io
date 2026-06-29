@@ -13,10 +13,9 @@ status:
   icon: " "
 role: Psychology Student | Neuroscience Enthusiast
 bio: |
-  Najmeh Nayyer is a Research Assistant and Intern. Her research
-  is shaped around object recognition, conceptual knowledge, and
-  intelligence. Najmeh is passionate about exploring diffrent approches
-  to find her own perspective on understanding the brain.
+  Najmeh Nayyer is a Research Assistant and Research Intern. Her research focuses on
+  object recognition, conceptual knowledge, and intelligence. Najmeh is passionate
+  about exploring different approaches to find her own perspective on understanding the brain.
 
 affiliations:
   - name: University of Isfahan
@@ -31,7 +30,7 @@ links:
   - icon: brands/github
     url: https://github.com/NajmehNayyer
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/najmeh-nayyer/
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/citations?user=example
   # - icon: academicons/orcid
@@ -88,7 +87,7 @@ languages:
     level: 0.4
     
 awards:
-  - title: Top 0.03% Student in Humanities Major in Iran
+  - title: National top 0.03% Student in Humanities Major
     awarder: Ministry of Science, Research and Technology
     date: "2024-09"
     summary:  Ranked 1135 (top 0.03%) among 348,917 participants in the national entrance exam for bachelors, which resulted in a full-ride scholarship.
