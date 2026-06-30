@@ -51,12 +51,12 @@ experience:
   - role: Research Intern
     org: IPM Institute For Research In Fundamental Sciences
     start: 2026-05
-    supervisor: |
-      Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian
+    summery: |
+      supervisor: Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian
     # button:
       # text: View portfolio
       # url: /
-      icon: hero/arrow-down-tray
+      # icon: hero/arrow-down-tray
 
 skills:
   - name: Technical Skills
