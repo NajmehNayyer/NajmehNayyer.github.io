@@ -60,13 +60,13 @@ projects: []
 
 ### Session 2
 **Status:** Presented
-📑 [View Slides](talk-2-slides.pdf)
 <!-- Add your session 2 slide file to this folder and name it talk-2-slides.pdf
      (or .pptx — just update the filename above to match) -->
 
 ### Session 3
 **Status:** Presented
-📑 [View Slides](talk-3-slides.pdf)
+
+[View Slides](talk-3-slides.pdf)
 <!-- Add your session 3 slide file to this folder and name it talk-3-slides.pdf -->
 
 ### Session 4 onward
@@ -86,5 +86,3 @@ and reference them below. Add a new line each time you have a new photo.
 -->
 
 ![Session 1](session-1.jpg)
-![Session 2](session-2.jpg)
-![Session 3](session-3.jpg)
