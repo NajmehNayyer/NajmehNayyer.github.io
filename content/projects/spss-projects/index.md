@@ -1,6 +1,6 @@
 ---
 title: IBM SPSS Projects
-date: 2025-2026
+date: 2025-01-01
 # links:
 #   - type: GitHub Link
 #     url: https://github.com/NajmehNayyer/Analysis-of-Neural-Activity-in-FEF
