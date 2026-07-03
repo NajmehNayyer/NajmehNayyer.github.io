@@ -30,7 +30,7 @@ links:
   - icon: brands/github
     url: https://github.com/NajmehNayyer
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/najmeh-nayyer/
+    url: https://www.linkedin.com/in/najmeh-nayyer-a5026534b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   # - icon: academicons/google-scholar
     # url: https://scholar.google.com/citations?user=example
   # - icon: academicons/orcid
@@ -45,7 +45,7 @@ interests:
 education:
   - degree: BSc Psychology
     institution: University of Isfahan
-    start: 2024-09-22
+    start: 2024
 
 experience:
   - role: Research Intern
@@ -53,16 +53,29 @@ experience:
     start: 2026-05
     summery: |
       supervisor: Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian
-    # button:
-      # text: View portfolio
-      # url: /
-      # icon: hero/arrow-down-tray
+  - role: Research Assistant
+    org: University of Delaware
+    start: 2026-09
+    summery: |
+      supervisor: Prof. Maryam Vaziri-Pashkam
+  - role: Project Assistant
+    org: University of Utah
+    start: 2026-04
+    end: 2026-08
+    summery: |
+      supervisor: Prof. Behrad Noudoost
+    button:
+      text: View Poster
+      url: https://najmehnayyer.github.io/publications/chromatic-threshold-poster/
+      icon: hero/arrow-down-tray
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
         level: 3
+      - label: Machine Learning
+        level: 0.5
       - label: MATLAB
         level: 2
       - label: SPSS
@@ -75,6 +88,8 @@ skills:
         level: 2
       - label: Task Design
         level: 3
+      - label: Spike/LFP Analysis
+        level: 1
 
 languages:
   - name: Persian
@@ -84,7 +99,7 @@ languages:
     level: 3.5
     label: Advanced
   - name: French
-    level: 0.399
+    level: 0.42
     
 awards:
   - title: National top 0.03% Student in Humanities Major
