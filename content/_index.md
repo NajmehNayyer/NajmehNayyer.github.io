@@ -39,7 +39,7 @@ sections:
       text: |-
         My research centers on object recognition and conceptual knowledge: how the brain builds internal models and representations, and how they give rise to intelligence. I'm drawn to questions like how conceptual knowledge is stored and retrieved during recognition, and how objects interacts with other highe functions such as working memory and decision-making. I see this as a path toward NeuroAI: understanding these principles in biological systems to inform artificial ones that model the world the way we do.
 
-    Please reach out to collaborate!
+        Please reach out to collaborate!
     design:
       columns: '1'
 #  - block: collection
