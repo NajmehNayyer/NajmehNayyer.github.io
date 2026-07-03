@@ -25,6 +25,8 @@ publication:
 peer_reviewed: true
 open_access: false
 
+Note: |
+  This poster was extracted as part of a canceled project under the supervision of Prof. Behrad Noudoost (University of Utah).
 abstract: |
   Introduction
   A previous study by Krauskopf et al. (1992) investigated the role of adaptation on the S – (L+M) axis in four subjects. Building on these findings, the current study examined this phenomenon in a sample of twelve Iranian women.
@@ -42,7 +44,7 @@ abstract: |
   Color Discrimination; Adaptation; Chromatic Mechanism
 
 # Summary. An optional shortened abstract.
-summary: 'This poster was extracted as part of a canceled project under the supervision of Prof. Behrad Noudoost (University of Utah).'
+summary: 'This poster examines yellow-blue color discrimination in twelve Iranian women and shows that yellow adaptation significantly increased detection thresholds while preserving overall group sensitivity, suggesting opponent-channel fatigue with notable individual differences in compensatory visual strategies.'
 
 tags:
   - Color Discrimination
