@@ -50,7 +50,7 @@ tags:
   - Perception
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links
 links:
@@ -80,8 +80,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-Add the publication's full text or supplementary notes here. You can use rich formatting such as including code, math, and images.
