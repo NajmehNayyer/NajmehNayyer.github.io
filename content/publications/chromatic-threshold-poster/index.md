@@ -20,7 +20,7 @@ publication_types: ['speech']
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
   name: "Chromatic Threshold Stability in the Yellow-Blue Axis"
-  short_name: "2AFC"
+  short_name: " "
 
 peer_reviewed: true
 open_access: false
