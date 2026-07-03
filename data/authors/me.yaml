@@ -51,23 +51,27 @@ experience:
   - role: Research Intern
     org: IPM Institute For Research In Fundamental Sciences
     start: 2026-05
-    summery: |
+    summary: |
       supervisor: Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian
+    button:
+      text: Practice Project
+      url: https://najmehnayyer.github.io/projects/fef-neurons/
+      icon: hero/folder
   - role: Research Assistant
     org: University of Delaware
     start: 2026-09
-    summery: |
+    summary: |
       supervisor: Prof. Maryam Vaziri-Pashkam
   - role: Project Assistant
     org: University of Utah
     start: 2026-04
     end: 2026-08
-    summery: |
+    summary: |
       supervisor: Prof. Behrad Noudoost
     button:
       text: View Poster
       url: https://najmehnayyer.github.io/publications/chromatic-threshold-poster/
-      icon: hero/arrow-down-tray
+      icon: hero/document-text
 
 skills:
   - name: Technical Skills
