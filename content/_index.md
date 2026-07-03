@@ -62,15 +62,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  # Talks moved to its own page at /talks/ — see content/talks/_index.md
   # News section disabled per site preference.
   # Uncomment this block if you want to show recent blog posts on the homepage again.
   # - block: collection
