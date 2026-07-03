@@ -8,7 +8,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: 
+      text: This section is not completed yet.
       filters:
         folders:
           - projects
