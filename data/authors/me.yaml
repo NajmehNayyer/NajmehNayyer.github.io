@@ -61,7 +61,7 @@ experience:
       icon: hero/folder
   - role: Research Assistant
     org: University of Delaware
-    start: 2026-09
+    start: 2025-09
     summary: |
       Supervisor: Prof. Maryam Vaziri-Pashkam
       - Formulated a hypothesis to examine the object categorization with object kinematograms.
@@ -69,8 +69,8 @@ experience:
       - Analyzed (exploratory and hypothesis-based) the accuracy and reaction time of initial pilot data (subjects: authors) using Python.
   - role: Project Assistant
     org: University of Utah
-    start: 2026-04
-    end: 2026-08
+    start: 2025-04
+    end: 2025-08
     summary: |
       Supervisor: Prof. Behrad Noudoost
     button:
