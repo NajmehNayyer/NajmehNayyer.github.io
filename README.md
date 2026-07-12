@@ -242,7 +242,3 @@ Released under the [MIT License](./LICENSE.md).
 <p align="center">
   <sub>HugoBlox is a trademark of Lore Labs.</sub>
 </p>
-
-<!--START_SECTION:news-->
-<!--Updated at 2026-06-28T02:29:01.811Z-->
-<!--END_SECTION:news-->
