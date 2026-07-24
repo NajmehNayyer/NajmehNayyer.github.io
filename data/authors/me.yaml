@@ -59,7 +59,7 @@ experience:
       text: Practice Project
       url: https://najmehnayyer.github.io/projects/fef-neurons/
       icon: hero/folder
-  - role: Research Assistant
+  - role: Independent Researcher
     org: University of Delaware
     start: 2025-09
     summary: |
@@ -84,7 +84,7 @@ skills:
       - label: Python
         level: 3
       - label: Machine Learning
-        level: 0.5
+        level: 1
       - label: MATLAB
         level: 2
       - label: SPSS
