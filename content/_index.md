@@ -37,8 +37,12 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research centers on object recognition and conceptual knowledge: how the brain builds internal models and representations, and how they give rise to intelligence. I'm drawn to questions like how conceptual knowledge is stored and retrieved during recognition, and how objects interacts with other highe functions such as working memory and decision-making. I see this as a path toward NeuroAI: understanding these principles in biological systems to inform artificial ones that model the world the way we do.
+        How do we perceive the world and determine our responses to it? We categorize our perceptions as objects, assign them specific concepts, and use these concepts to interact with our environment. Ultimately, engaging with these concepts facilitates the development of intelligence.
 
+        I aim to elucidate the neural mechanisms underlying object recognition and intelligence. To achieve this goal, I have examined object categorization using motion cues and behavioral data. This has prompted further questions for me regarding the creation and access of concepts  (abstraction and memory), as well as the factors influencing category selection under noisy stimuli (perceptual decision-making). I am now investigating object representation in frontotemporal pathways, utilizing spiking activity and brain dynamics to extend beyond behavioral data and address these questions.
+
+        Answering such broad questions for understanding intelligence and its implementation in artificial agents requires integrating multi-modal experiments with computational approaches. I adopt this strategy more and more as my research progresses.
+    
         Please reach out to collaborate!
     design:
       columns: '1'
