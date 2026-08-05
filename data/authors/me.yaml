@@ -40,7 +40,9 @@ links:
 
 interests:
   - Object Recognition
-  - Perceptual Decision Making
+  - Abstraction
+  - Conceptual Knowledge
+  - Decision Making
   - Working Memory
   - Intelligence
 
@@ -96,8 +98,8 @@ skills:
       - label: Signal Processing
         level: 2
       - label: Task Design
-        level: 3
-      - label: Spike/LFP Analysis
+        level: 4
+      - label: Analysis of Spiking Activity
         level: 1
 
 languages:
@@ -105,10 +107,8 @@ languages:
     level: 5
     label: Native
   - name: English
-    level: 3.5
+    level: 4
     label: Advanced
-  - name: French
-    level: 0.42
     
 awards:
   - title: National top 0.03% Student in Humanities Major
