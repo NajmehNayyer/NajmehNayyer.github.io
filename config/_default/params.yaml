@@ -21,7 +21,8 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "Psychology Student with a passion for research in object recognition and conceptual knowledge."
+    description: "Psychology Student with a passion for research in object recognition and
+      conceptual knowledge."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
