@@ -1,0 +1,15 @@
+# Hugo security configuration to whitelist tailwindcss for exec workers
+# Added by AI Commit
+[security]
+  enableInlineShortcodes = false
+
+  [security.exec]
+    allow = ["^(dart-)?sass$","^go$","^git$","^node$","^postcss$","^tailwindcss$"]
+
+  [security.node.permissions]
+    allowAddons = ["tailwindcss"]
+    allowChildProcess = ["tailwindcss"]
+    allowRead = ["."]
+    allowWorker = ["tailwindcss"]
+    allowWrite = []
+    disable = false
