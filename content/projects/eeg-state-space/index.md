@@ -1,6 +1,6 @@
 ---
 title: "State-Space Neural Dynamics (NOD-EEG)"
-date: 2026-10-23
+date: 2026-10-22
 links:
   - name: GitHub Link
     url: https://github.com/NajmehNayyer/NOD-EEG/tree/main/Analysis/State-space%20neural%20dynamics
