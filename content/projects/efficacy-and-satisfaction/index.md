@@ -7,7 +7,7 @@ links:
   - name: Data
     url: https://najmehnayyer.github.io/uploads/efficacy-and-satisfaction-data.sav
   - name: Output
-    url: https://najmehnayyer.github.io/uploads/efficacy-and-satisfaction-output.sav
+    url: https://najmehnayyer.github.io/uploads/efficacy-and-satisfaction-output.spv
 tags:
   - SPSS
   - Data Analysis
