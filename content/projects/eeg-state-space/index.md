@@ -5,8 +5,10 @@ links:
   - name: GitHub Link
     url: https://github.com/NajmehNayyer/NOD-EEG/tree/main/Analysis/State-space%20neural%20dynamics
 tags:
+  - Signal Processing
   - Pyhton
-  - Data Analysis
+  - Modeling
   - Machine Learning
+  - EEG
 ---
 More descriptions can be found using the GitHub link.
