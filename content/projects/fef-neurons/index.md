@@ -1,6 +1,6 @@
 ---
 title: Neural Activity in the FEF
-date: 2026
+date: 2026-08-15
 links:
   - name: GitHub Link
   - url: https://github.com/NajmehNayyer/Analysis-of-Neural-Activity-in-FEF
