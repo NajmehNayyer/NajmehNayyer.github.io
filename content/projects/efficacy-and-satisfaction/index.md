@@ -1,6 +1,6 @@
 ---
 title: "General Self-Efficacy and Life Satisfaction: A Survey-Based Analysis"
-date: 2026-10-22
+date: 2026
 links:
   - name: Persian Survey
     url: https://survey.porsline.ir/s/nuHchN0H
