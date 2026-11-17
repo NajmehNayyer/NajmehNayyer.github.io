@@ -52,16 +52,25 @@ education:
     start: 2024
 
 experience:
-  # - role: Research Intern
-  #   org: IPM Institute For Research In Fundamental Sciences
-  #   start: 2026-05
-  #   summary: |
-  #     Supervisor: Prof. Mohammadreza A. Dahaghani & Dr. Farideh Shakerian
-  #   button:
-  #     text: Practice Project
-  #     url: https://najmehnayyer.github.io/projects/fef-neurons/
-  #     icon: hero/folder
-  - role: Independent Researcher
+  - role: Research Intern
+    org: IPM Institute For Research In Fundamental Sciences
+    start: 2026-10
+    summary: |
+      Supervisor: Narges Kheirkhah & Prof. Mohammadreza A. Dahaghani
+    button:
+      text: Practice Project
+      url: https://najmehnayyer.github.io/projects/fef-neurons/
+      icon: hero/folder
+  - role: Research Intern
+    org: University of Warwick
+    start: 2026-10
+    summary: |
+      Supervisor: Alex Clarke
+    button:
+      text: Practice Project
+      url: https://najmehnayyer.github.io/projects/eeg-state-space/
+      icon: hero/folder
+  - role: Reaserch Assistant
     org: University of Delaware
     start: 2025-09
     summary: |
