@@ -39,7 +39,7 @@ sections:
       text: |-
         How do we perceive the world and determine our responses to it? We categorize our perceptions as objects, assign them specific concepts, and use these concepts to interact with our environment. Ultimately, engaging with these concepts facilitates the development of intelligence.
 
-        I aim to elucidate the neural mechanisms underlying object recognition and intelligence. To achieve this goal, I have examined object categorization using motion cues and behavioral data. This has prompted further questions for me regarding the creation and access of concepts  (abstraction and memory), as well as the factors influencing category selection under noisy stimuli (perceptual decision-making). I am now investigating object representation in frontotemporal pathways, utilizing spiking activity and brain dynamics to extend beyond behavioral data and address these questions.
+        I aim to elucidate the neural mechanisms underlying object recognition and intelligence. To pursue this goal, I have investigated object categorization through motion cues and behavioral experiments. This has prompted further questions about how concepts are formed and accessed. I am now investigating how we access conceptual knowledge associated with words during visual word processing.
 
         Answering such broad questions for understanding intelligence and its implementation in artificial agents requires integrating multi-modal experiments with computational approaches. I adopt this strategy more and more as my research progresses.
     
